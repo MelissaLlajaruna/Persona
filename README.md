@@ -1,2 +1,9 @@
 # Persona
-Programa que gestiona personas en java. Martes 21/09/2021
+Programa que gestiona personas en java. 
+
+- A
+- B
+- C
+- D
+
+Martes 21/09/2021
