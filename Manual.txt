@@ -1,3 +1,4 @@
 Manual del programa 2.0 (con más cambios que nunca)
 
 - 
+Ahora este fichero es versión 3.0
